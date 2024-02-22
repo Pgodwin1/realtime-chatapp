@@ -29,6 +29,19 @@
     }
 }
 
+.message {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 10px;
+  }
+  
+ 
+  .user {
+    font-weight: bold;
+    margin-right: 10px;
+    color: #fff;
+  }
+
 .new-message-form{
     width: 100%;
     display: flex;
